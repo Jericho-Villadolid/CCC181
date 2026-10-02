@@ -1,8 +1,8 @@
 # Git Exercises
 
 **Course:** CCC181  
-**Student Name:** <Villadolid>, <Jericho Zhadraq>  
-**Student ID:** <20240059>  
+**Student Name:** Villadolid, Jericho Zhadraq
+**Student ID:** 20240059  
 
 ## Activity Description
 
@@ -39,8 +39,6 @@ My Git configuration uses my student ID number without the hyphen, as instructed
 | 21 | invalid-order            | `villadolid_jerichozhadraq_21.png` |
 | 22 | find-swearwords          | `villadolid_jerichozhadraq_22.png` |
 | 23 | find-bug                 | `villadolid_jerichozhadraq_23.png` |
-
-> Add, remove, or update rows based on the exercises you completed.
 
 ## Folder Contents
 
